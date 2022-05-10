@@ -53,3 +53,4 @@ export const LoginPage = () => {
       </div>
   );
 };
+
